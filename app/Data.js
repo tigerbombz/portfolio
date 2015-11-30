@@ -1,13 +1,11 @@
 var Data = {
   about: {
     backgroundImage: 'img/background.jpg',
-    hello: 'hello, world',
+    hello: 'Design is not just what it looks like and feels like. Design is how it works.',
     image: 'img/person.jpg',
-    name: 'Tommy Dang',
-    subtitle: 'Entrepreneur / Designer / Developer',
-    text: 'I love solving problems by building mobile and web applications. ' +
-      'My interests include movies, working out, technology, stocks, data ' +
-      'mining, and machine learning.'
+    name: 'Matthew Nguyen',
+    subtitle: 'Developer',
+    text: 'Whatever good things we build end up building us.'
   },
   contact: {
     items: []
@@ -19,7 +17,7 @@ var Data = {
     footer: {
       copyright: 'Quantum Ventures'
     },
-    title: 'Dangerous'
+    title: 'Tigerbombz'
   },
   portfolio: {
     items: []
@@ -29,7 +27,7 @@ var Data = {
 module.exports = Data;
 
 Data.contact.items['facebook'] = {
-  href:     'https://www.facebook.com/tommydangerouss',
+  href:     'https://www.facebook.com/tigerbombz',
   imageUrl: 'img/facebook.png',
   name:     'Facebook'
 }
