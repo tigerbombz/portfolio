@@ -1,8 +1,8 @@
 var Data = {
   about: {
-    backgroundImage: 'img/background.jpg',
+    backgroundImage: 'img/tree-from-hand-large.jpg',
     hello: 'Design is not just what it looks like and feels like. Design is how it works.',
-    image: 'img/person.jpg',
+    image: 'img/PhotoGrid_1446769581428.jpg',
     name: 'Matthew Nguyen',
     subtitle: 'Developer',
     text: 'Whatever good things we build end up building us.'
