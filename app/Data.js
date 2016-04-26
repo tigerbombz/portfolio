@@ -1,8 +1,8 @@
 var Data = {
   about: {
     backgroundImage: 'img/tree-from-hand-large.jpg',
-    hello: 'Design is not just what it looks like and feels like. Design is how it works.',
-    image: 'img/PhotoGrid_1446769581428.jpg',
+    hello: 'The only way to do great work is to love what you do',
+    image: 'img/PhotoGrid_1446769581428.png',
     name: 'Matthew Nguyen',
     subtitle: 'Full Stack Developer & Entreprenuer',
     text: 'Whatever good things we build ends up building us.'
@@ -61,7 +61,7 @@ Data.portfolio.items['homie'] = {
   description: 'Find friends, create moments, & make everlasting friendships.',
   count:    0,
   id:       'homie',
-  // imageUrl: 'img/onmyblock.png',
+  imageUrl: 'img/logo_white.png',
   name:     'Homie',
   style: {
     backgroundColor: 'rgb(41, 184, 229)'
@@ -73,26 +73,25 @@ Data.portfolio.items['spot_me'] = {
   description: 'Come share your experience and knowledge with these workout articles.',
   count:    0,
   id:       'spot_me',
-  // imageUrl: 'img/dunzo.png',
+  imageUrl: 'img/spotme-11.png',
   name:     'Spot Me',
   style: {
     backgroundColor: 'rgb(0, 0, 0)'
   },
   subtitle: 'Ruby on Rails',
-  websiteUrl: null,
+  websiteUrl: 'spot-me.tigerbombz.com',
 };
-Data.portfolio.items['spadetree'] = {
-  description: 'Find or become a tutor for kids K-12, teaching skills ' +
-    'that are not typically taught in school.',
+Data.portfolio.items['impressions'] = {
+  description: 'Check out your favorite salon and book an appointment for all your hair-care needs.',
   count:    0,
-  id:       'spadetree',
-  // imageUrl: 'img/spadetree.png',
-  name:     'SpadeTree',
+  id:       'impressions',
+  imageUrl: 'img/impressions.png',
+  name:     'Impressions',
   style: {
     backgroundColor: 'rgb(0, 0, 0)'
   },
-  subtitle: 'Python / Django / iOS',
-  websiteUrl: 'spadetree.com',
+  subtitle: 'React / Redux / Webpack',
+  websiteUrl: 'impressions.tigerbombz.com',
 };
 // Data.portfolio.items['bite'] = {
 //   appStoreUrl: 'https://itunes.apple.com/us/app/bite-app/id661010278?mt=8',
