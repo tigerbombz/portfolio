@@ -67,7 +67,7 @@ Data.portfolio.items['homie'] = {
     backgroundColor: 'rgb(41, 184, 229)'
   },
   subtitle: 'Python',
-  websiteUrl: null,
+  websiteUrl: 'homie.tigerbombz.com',
 };
 Data.portfolio.items['spot_me'] = {
   description: 'Come share your experience and knowledge with these workout articles.',
