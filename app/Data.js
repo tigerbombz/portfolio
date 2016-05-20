@@ -2,10 +2,10 @@ var Data = {
   about: {
     backgroundImage: 'img/tree-from-hand-large.jpg',
     hello: 'The only way to do great work is to love what you do',
-    image: 'img/PhotoGrid_1446769581428.png',
+    image: 'img/Matthew.jpg',
     name: 'Matthew Nguyen',
     subtitle: 'Full Stack Developer & Entreprenuer',
-    text: 'Whatever good things we build ends up building us.'
+    text: 'A full stack engineer with experience in Python, Ruby on Rails, and MEAN technologies to build an exceptional online presence. Eager to learn new languages, frameworks, and to take on challenges in constant desire of a results-oriented atmosphere. Astute ability in JavaScript for client and server side scripting (AngularJS/React/NodeJS) and always researching and studying new languages that are effective in modern culture. Works extremely well in team oriented settings and has copious amounts of enthusiasm to code.'
   },
   contact: {
     items: []
