@@ -91,7 +91,7 @@ Data.portfolio.items['impressions'] = {
     backgroundColor: 'rgb(0, 0, 0)'
   },
   subtitle: 'React / Redux / Webpack',
-  websiteUrl: 'impressions.tigerbombz.com',
+  websiteUrl: 'http://www.impressionshairdesigns.com',
 };
 // Data.portfolio.items['bite'] = {
 //   appStoreUrl: 'https://itunes.apple.com/us/app/bite-app/id661010278?mt=8',
